@@ -1,6 +1,6 @@
-#Product Rating Component React
+##Product Rating Component React
 
-Welcome to the project!
+#Welcome to the project!
 
 ## Table of Contents
 
